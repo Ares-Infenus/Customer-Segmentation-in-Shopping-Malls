@@ -116,33 +116,34 @@ Exploratory Data Analysis (EDA): Generation of descriptive statistics and visual
 Selection of the Optimal Number of Clusters: Calculation of validation metrics to determine the optimal k value.
 
 Clustering and Interpretation: Application of K-means and analysis of the characteristics of each cluster.
----
-## Resultados
-El análisis identificó segmentos de clientes significativos basados en patrones de gasto y atributos demográficos. Entre los insights clave se destacan:
-
-Clientes jóvenes con bajos ingresos pero alta tendencia al gasto.
-
-Individuos de altos ingresos con comportamientos de gasto moderado a alto.
-
-Diferencias conductuales en la segmentación basada en el género.
-
-Para una discusión completa de los resultados, consulta el archivo Documentation.pdf en la carpeta reports.
 
 ---
-## Trabajo Futuro
-Incorporar variables psicográficas adicionales para refinar la segmentación.
+## Results
+The analysis identified significant customer segments based on spending patterns and demographic attributes. Key insights include:
 
-Explorar técnicas de clustering alternativas (DBSCAN, clustering jerárquico).
+Young customers with low incomes but high spending propensity.
 
-Implementar un dashboard interactivo para análisis en tiempo real.
+High-income individuals with moderate to high spending behaviors.
+
+Behavioral differences in gender-based segmentation.
+
+For a full discussion of the results, see the Documentation.pdf file in the reports folder.
 
 ---
-## Agradecimientos
-Este proyecto se realizó como parte de un estudio avanzado de machine learning. Los datos fueron obtenidos de Kaggle a partir del dataset "Mall_Customers".
+## Future Work
+Incorporate additional psychographic variables to refine the segmentation.
 
-Licencia
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+Explore alternative clustering techniques (DBSCAN, hierarchical clustering).
 
-Contacto
-Para consultas o colaboraciones, por favor contacta a Sebastián D. Pinzón Zambrano:
-Correo: spinzonzambrano@gmail.com
+Implement an interactive dashboard for real-time analysis.
+
+---
+## Acknowledgments
+This project was conducted as part of an advanced machine learning study. Data was obtained from Kaggle using the "Mall_Customers" dataset.
+
+License
+This project is distributed under the MIT license. See the LICENSE file for details.
+
+Contact
+For inquiries or collaborations, please contact Sebastián D. Pinzón Zambrano:
+Email: spinzonzambrano@gmail.com
